@@ -1,0 +1,9 @@
+{
+  "name": "@dsandor/aws-secret-manager",
+  "version": "1.0.1",
+  "module": "SecretManager.js",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.444.0"
+  }
+}
